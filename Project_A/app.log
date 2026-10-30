@@ -1,0 +1,6 @@
+INFO: 用户登录成功
+ERROR: 数据库连接失败
+INFO: 请求处理中
+timeout: 调用AI接口超时
+INFO: 正常运行
+OOM: 内存溢出
