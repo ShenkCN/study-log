@@ -1,0 +1,9 @@
+Oct 26 08:01:01 server sshd[101]: Failed password for root from 192.168.1.100 port 5000 ssh2
+Oct 26 08:02:02 server sshd[102]: Failed password for admin from 10.0.0.5 port 5001 ssh2
+Oct 26 08:03:03 server sshd[103]: Accepted password for user from 172.16.0.1 port 5002 ssh2
+Oct 26 08:04:04 server sshd[104]: Failed password for root from 192.168.1.100 port 5003 ssh2
+Oct 26 08:05:05 server sshd[105]: Failed password for root from 192.168.1.100 port 5004 ssh2
+Oct 26 08:06:06 server sshd[106]: Failed password for admin from 10.0.0.5 port 5005 ssh2
+Oct 26 08:07:07 server sshd[107]: Failed password for root from 45.22.33.11 port 5006 ssh2
+Oct 26 08:08:08 server sshd[108]: Invalid user test from 192.168.1.100 port 5007 ssh2
+Oct 26 08:09:09 server sshd[109]: Failed password for root from 45.22.33.11 port 5008 ssh2
